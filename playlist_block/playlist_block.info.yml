@@ -1,0 +1,5 @@
+name: PlayList For users
+type: module
+description: A module for favourites series of users
+package: custom
+core: 8.x
